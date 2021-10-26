@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HP/Desktop/3349/ErgasiaTN/Game.cpp
+iostream
+-
+Game.h
+C:/Users/HP/Desktop/3349/ErgasiaTN/Game.h
+
+C:/Users/HP/Desktop/3349/ErgasiaTN/Game.h
+iostream
+-
+vector
+-
+sstream
+-
+stack
+-
+queue
+-
+
+C:/Users/HP/Desktop/3349/ErgasiaTN/main.cpp
+iostream
+-
+unordered_set
+-
+unordered_map
+-
+Game.h
+C:/Users/HP/Desktop/3349/ErgasiaTN/Game.h
+queue
+-
+stack
+-
+
